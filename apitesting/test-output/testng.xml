@@ -8,6 +8,8 @@
                 <exclude name="method2"></exclude>
               </methods>
             </class>
+            <class name="com.codefromscratch.jsonparsing.JsonParsingTest">
+            </class>
         </classes>
 
     </test> <!-- Test -->
